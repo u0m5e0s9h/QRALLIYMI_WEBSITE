@@ -4,8 +4,7 @@ body {
 
 
 header {
-  /* display: flex;
-  max-width: 1440px; */
+
   width: 100vw;
   background: #fff;
   margin: 0 auto;
@@ -49,25 +48,6 @@ header {
   margin-right: 0px;
 }
 
-/* .b2b_button {
-  background-color: black;
-  display: flex;
-  border-radius: 4px;
-  justify-content: center;
-  align-items: center;
-  width: 45px;
-  height: 25px;
-}
-
-.b2b_button a {
-  color: white;
-}
-
-.b2b_button:hover,
-.b2b_button:focus,
-.b2b_button:active {
-  color: red;
-} */
 
 .header_link {
   font-size: 14px;
